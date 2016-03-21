@@ -10,7 +10,7 @@ great choices out there:
   * [Sublime Text](https://www.sublimetext.com/) - Anouther great choice, similar to Atom, but not 100% free
   * [Webstorm](https://www.jetbrains.com/webstorm/) - A full blown JavaScript IDE, but it comes at a price.
 
-THe most important thing here is that you use a text editor that you are
+The most important thing here is that you use a text editor that you are
 comfortable with.
 
 ## Node and npm
